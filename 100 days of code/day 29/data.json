@@ -1,0 +1,18 @@
+{
+    "Facebook": {
+        "email": "test@gmail.com",
+        "password": "+pZ&0h$LhK780Rwq!"
+    },
+    "Amazon": {
+        "email": "test@gmail.com",
+        "password": "Z*1)%7MC4NeN6tGtW"
+    },
+    "Gmail": {
+        "email": "forTestingUcCiu@gmail.com",
+        "password": "fr(KGH$7b2tOm"
+    },
+    "twilio": {
+        "email": "justasjuozapaitis65@gmail.com",
+        "password": "u1GA(fq!N*8g&D9j"
+    }
+}
