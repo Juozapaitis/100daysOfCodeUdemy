@@ -1,3 +1,3 @@
 # 100daysOfCodeUdemy
 
-# Codes in master branch
+# Master branch for project
